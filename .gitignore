@@ -4,3 +4,5 @@ db_config = {'user': 'praktikum_student',
              'port': 6432,
              'db': 'data-analyst-afisha'
              }
+
+.env
